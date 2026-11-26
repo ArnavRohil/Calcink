@@ -1,0 +1,30 @@
+# Dependencies and generated build output
+node_modules/
+vendor/
+dist/
+coverage/
+playwright-report/
+test-results/
+
+# Downloaded training data and generated model-training artifacts
+tools/.pretrained-download/
+__pycache__/
+*.py[cod]
+*.npz
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and package-manager state
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

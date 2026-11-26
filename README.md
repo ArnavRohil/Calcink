@@ -1,5 +1,10 @@
 # CalcInk ✍️ = 🧮
 
+### ✨ [Live Demo: Try CalcInk](https://calcink.netlify.app/)
+
+A handwritten mathematics calculator that turns digital ink into mathematical expressions and solves them.
+
+
 **Created by Arnav Rohil.**
 
 **An on-device handwritten math calculator.** Write `18 + 4 × 3 =` with a mouse, stylus or finger, and the answer appears on the paper right after the `=`. Erase a digit and write another, and the answer updates. All of it runs in your browser and keeps working with no network.
